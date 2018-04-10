@@ -13,7 +13,7 @@ async def on_ready():
     print ("GitHub - https://www.github.com/ArlixFromDiscord/App-Discord-Bot")
 
 @app.command()
-async def credits
+async def credits(ctx):
     await app.say("This is a bot that was written in the App version of discord.py and someone downloaded it so this is the only credit I bet. - If you want this bot, go to https://www.github.com/ArlixFromDiscord/App-Discord-Bot")
 
-client.run("Icantbelivethatudownloadedthisinsteadoflookingatitandrewritingitokno")
+app.run("Icantbelivethatudownloadedthisinsteadoflookingatitandrewritingitokno")
