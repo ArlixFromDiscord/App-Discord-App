@@ -15,4 +15,4 @@ async def on_ready():
 async def credits(ctx):
     await app.say("This is a bot that was written in the App version of discord.py and someone downloaded it so this is the only credit I bet. - If you want this bot, go to https://www.github.com/ArlixFromDiscord/App-Discord-Bot")
 
-app.run("NDI0MjYzMjc3OTU1MjUyMjQ0.DacQcQ.DFBbTYD3MjI3uVmGdoedqyMmobg")
+app.run("token")
